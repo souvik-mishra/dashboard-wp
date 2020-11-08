@@ -59,7 +59,6 @@ export default {
 }
 .add-task {
     background: white;
-    height: 33vh;
     width: 33vw;    
     border-radius: 8px;
 }
@@ -84,7 +83,8 @@ export default {
     resize: none;
     height: 80%;
     width: 90%;
-    font-family: 'Roboto', sans-serif;  
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
 }
 .add-task__footer {
     border-top: 1px solid lightgrey;

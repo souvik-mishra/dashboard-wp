@@ -98,7 +98,11 @@ export default {
   color: rgb(29, 95, 29);
   cursor: pointer;
   margin: 8px;
-  padding: 8px 0;
+  padding: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
 .task-list__task:hover {
   border: 2px solid rgb(185, 189, 235);
@@ -111,7 +115,7 @@ export default {
   color: rgb(221, 49, 49);
 }
 .task-list__task__desc {
-  font-size: 2.2rem;
+  font-size: 1.2rem;
 }
 .task__desc--strikethrough {
   text-decoration: line-through;

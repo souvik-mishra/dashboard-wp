@@ -20,6 +20,9 @@ export default {
 </script>
 
 <style>
+body{
+  height: 97.5vh;
+}
 #app {
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
