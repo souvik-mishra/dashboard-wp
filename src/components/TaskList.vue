@@ -91,7 +91,7 @@ export default {
   justify-content: center;
 }
 .task-list__task {
-  flex: 0 0 31.4%;
+  flex: 1 1 31.4%;
   border-radius: 8px;
   border: 2px solid #daf5c0;
   background:#daf5c0;
