@@ -1,0 +1,34 @@
+[
+    {
+        "task": "Get groceries for Mom!",
+        "done": false
+    },
+    {
+        "task": "Interview at 10:00 PM",
+        "done": false
+    },
+    {
+        "task": "Meet Sheena at the restaurant at 6:00 PM",
+        "done": false
+    },
+    {
+        "task": "Complete courses on Data Science",
+        "done": false
+    },
+    {
+        "task": "Wish bro Happy Birthday!",
+        "done": false
+    },
+    {
+        "task": "Pay the electric bills",
+        "done": false
+    },
+    {
+        "task": "Pay the MF premium",
+        "done": false
+    },
+    {
+        "task": "Get food for dinner",
+        "done": false
+    }
+]

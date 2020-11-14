@@ -20,6 +20,7 @@
 
 <script>
 import AddTaskModal from './modal/AddTaskModal.vue'
+import { default as list } from '../mocks/task-list.json';
 export default {
   name: 'task-list',
   components: {
@@ -30,7 +31,7 @@ export default {
   },
   data(){
     return {
-      list: [],
+      list,
       showModal: false
     }
   },
