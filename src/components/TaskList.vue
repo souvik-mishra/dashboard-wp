@@ -104,6 +104,8 @@ export default {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  height: 76px;
+  overflow-y: auto;
 }
 .task-list__task:hover {
   border: 2px solid rgb(185, 189, 235);
